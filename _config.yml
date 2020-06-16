@@ -1,1 +1,8 @@
 theme: jekyll-theme-hacker
+title: Tracking and deleting an object using the SiamMask and inpainting methods. The analysis and comparison
+description: The amount of video data is growing rapidly and constantly, as well as it`s importance and significance. 
+In this regard, there are also new tasks for the intellectual processing of this data. 
+One of the basic and at the same time urgent tasks in this area is to create easy - to-use tools for video processing – video editors.
+A popular component of such systems is a tool for removing unnecessary objects from the video sequence. 
+In this work, deleting an object from a video is considered as a two-stage process.
+The first step is to localize the object on all frames of the video. The second option is deletion (inpainting).
